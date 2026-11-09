@@ -1,0 +1,3 @@
+[submodule ".opencode/wordpress-skills"]
+	path = .opencode/wordpress-skills
+	url = https://github.com/jorgerosal/wordpress-skills.git
